@@ -15,9 +15,7 @@ A summary of the steps involved in this project was;
 
 QUESTIONS
 
-1. Fetching Top 100 highly reviewed properties with
-
- an average score of over 4.8stars that accommodates 2 people 
+1. Fetching Top 100 highly reviewed properties with an average score of over 4.8stars that accommodates 2 people 
 
 2. Getting entire rental units that house 2 people with breakfast included and also have wifi 
 
